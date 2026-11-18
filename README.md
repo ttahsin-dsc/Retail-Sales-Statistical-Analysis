@@ -121,23 +121,6 @@ The results indicate stronger evidence of differences **between products** than 
 4. **Use weekly patterns to inform operations.** Consider stronger staffing and inventory coverage toward Friday and Saturday, and test targeted promotions for Sundays.
 5. **Collect more data before long-term forecasting.** Sixty days reveal a recurring weekly pattern but are insufficient to establish annual seasonality or holiday effects.
 
-## Repository contents
-
-```text
-retail-sales-statistical-analysis/
-├── README.md
-├── dataintegration.py
-├── Store_A.csv
-├── Store_B.csv
-├── Store_C.csv
-├── ProductPricing.csv
-├── daily_sales_time_series.png
-├── daily_sales_moving_average.png
-├── weekly_sales_pattern.png
-├── sales_histogram_density.png
-├── sales_boxplot.png
-└── sales_qqplot.png
-```
 
 ## How to run
 
